@@ -1,9 +1,9 @@
 ---
 title: "Python Tutorial Part 1: Introduction"
-draft: true
+draft: false
 toc: true
 author: Hunter Henrichsen
-date: 2019-11-18T20:42:35-06:00
+date: 2019-11-18
 images:
 tags:
   - python
@@ -80,6 +80,16 @@ print("Hello world!")
 
 After it finishes, notice how `Hello world!` apprears on the right side?
 Congratulations! You've written your first program!
+
+Notice how we call `print()` just like we'd call the function `f(x)`, using
+parenthesis and giving it whatever we want it to work on. In this case, it just
+prints it out to the output portion, but there are other cool things we can do
+in the future.
+
+## Exercises
+
+Normally I'd put exercises here, but this one isn't super complex. Try printing
+something that's not "Hello world!", such as your name.
 
 {{< lessonfooter python 1 >}}
 {{< mathjax >}}
