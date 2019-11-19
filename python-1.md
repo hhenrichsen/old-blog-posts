@@ -19,9 +19,9 @@ words and incantations that run the world, strange titles such as "full-stack,"
 
 For me, this is how I started off. I found a mentor on YouTube, and followed
 along with him. I regarded the concepts that I was being taught as if they were 
-magic, and only found interesting pieces. I remember ranting to my brother one 
-night, and saying "Why even teach lists? No one would ever use them!" After a 
-few years, lists are one of my favorite tools.
+magic, and only learned the interesting pieces. I remember ranting to my brother 
+one night, and saying "Why even teach lists? No one would ever use them!" After 
+a few years, lists are one of my favorite tools.
 
 In this guide, I hope to convey things first as ideas with examples before
 moving into code. I won't go into the setup or installation of python on your
@@ -82,9 +82,9 @@ After it finishes, notice how `Hello world!` apprears on the right side?
 Congratulations! You've written your first program!
 
 Notice how we call `print()` just like we'd call the function `f(x)`, using
-parenthesis and giving it whatever we want it to work on. In this case, it just
-prints it out to the output portion, but there are other cool things we can do
-in the future.
+parenthesis and giving it the input we want it to work on. In this case, it just
+prints it out to the output portion, but there are other cool things we can use
+this for in the future.
 
 ## Exercises
 
