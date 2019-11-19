@@ -46,7 +46,7 @@ click the green run button at the top.
 
 My repl looks like this, although yours may differ:
 
-![New Repl.it Project](/img/python-01/ReplStarter.png)
+![New Repl.it Project](/img/python-01/ReplStarter.jpg)
 
 Eventually, we'll get python installed on your computer and have you edit code
 there instead of online. Until then, this site will meet our needs.
