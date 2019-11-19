@@ -3,6 +3,7 @@ title: "Java Tutorial Part 3: Checking Conditions"
 date: 2019-08-11T17:46:40-06:00
 draft: false
 toc: true
+author: Hunter Henrichsen
 tags:
   - java
   - java-tutorial

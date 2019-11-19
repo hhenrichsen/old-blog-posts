@@ -3,6 +3,7 @@ title: "Java Tutorial Part 4: Methods"
 date: 2019-10-30T22:42:35-06:00
 draft: true
 toc: true
+author: Hunter Henrichsen
 images:
 tags:
   - java

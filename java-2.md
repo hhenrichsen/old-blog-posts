@@ -4,6 +4,7 @@ date: 2019-08-05T02:12:56-06:00
 draft: false
 toc: true
 images:
+author: Hunter Henrichsen
 tags:
   - java
   - java-tutorial
