@@ -7,6 +7,7 @@ date: 2020-08-01T22:34:26-06:00
 tags:
   - programming
   - math
+summary: The most basic building blocks of a program are Variables. Let's take a look at where they come from, and how they apply to computers.
 ---
 
 ## Series Introduction

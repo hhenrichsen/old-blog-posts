@@ -1,5 +1,5 @@
 ---
-title: "Foundations of Code 2: Functions"
+title: "Foundations of Code 2: Functions and Algorithms"
 date: 2020-08-02T00:20:38-06:00
 draft: false
 toc: true
@@ -7,6 +7,7 @@ author: Hunter Henrichsen
 tags:
   - programming
   - math
+summary: Functions and Algorithms are important pieces of writing code. Let's take a look at where they come from, and how they apply to computers.
 ---
 
 ## On Functions
