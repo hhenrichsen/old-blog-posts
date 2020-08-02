@@ -1,6 +1,6 @@
 ---
 title: "Foundations of Code 1: Variables"
-draft: true
+draft: false
 toc: true
 author: Hunter Henrichsen
 date: 2020-08-01T22:34:26-06:00
