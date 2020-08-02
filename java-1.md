@@ -247,4 +247,4 @@ the next lesson is important to learning Java.
 
 ## Links
 
-{{< lessonfooter java 1 >}}
+{{< serial java 1 >}}

@@ -282,4 +282,4 @@ This is just one example of the types of things you can do with variables.
    operators that only works if a few conditions are met.
 
 ## Links
-{{< lessonfooter java 3 >}}
+{{< serial java 3 >}}

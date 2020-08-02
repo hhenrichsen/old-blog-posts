@@ -463,4 +463,4 @@ It will fail to compile.
 
 ## Links
 
-{{< lessonfooter java 2 >}}
+{{< serial java 2 >}}

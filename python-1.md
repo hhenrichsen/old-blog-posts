@@ -91,5 +91,5 @@ this for in the future.
 Normally I'd put exercises here, but this one isn't super complex. Try printing
 something that's not "Hello world!", such as your name.
 
-{{< lessonfooter python 1 >}}
+{{< serial python 1 >}}
 {{< mathjax >}}
