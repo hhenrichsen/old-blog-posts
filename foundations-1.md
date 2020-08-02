@@ -90,5 +90,5 @@ well as when working with functions.
 As always, thanks for reading. If you have questions or suggestions, join me
 on [Discord](https://discord.gg/jMQ8gsF).
 
-{{< lessonfooter foundations 1 >}}
+{{< serial foundations 1 >}}
 {{< mathjax >}}
