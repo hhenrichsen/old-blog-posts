@@ -22,8 +22,7 @@ An analogy that I've heard a few times in math classes is that a function is
 like a box with holes on two opposite sides. Things go in one side and come 
 out the other side and they get changed on their way through them. Looking
 back through my notes from MATH1050 (Algebra), my professor described it as
-
-> Little people inside of a little black box.
+"little people inside of a little black box."
 
 ![An excerpt from my notes about functions.](/img/foundations-02/notes.png)
 
