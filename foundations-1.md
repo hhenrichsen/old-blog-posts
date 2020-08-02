@@ -9,7 +9,7 @@ tags:
   - math
 ---
 
-## Introduction
+## Series Introduction
 Many people try to start tutorials on coding with code. I know that I've been
 one of those, and will only allude to the fact that Computer Science is based
 in Math. Anyone who has been in an Algebra class will draw that line. The
