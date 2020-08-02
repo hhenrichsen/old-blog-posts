@@ -27,22 +27,22 @@ And don't be afraid if you've not seen much math, haven't worked with it in
 awhile, or if it intimidates you -- I try to keep my examples simple, and 
 only talk about the relevant parts.
 
-## What are Variables
-When you start learning about math, you start with operations. Adding,
+## On Variables
+When I started learning math, I learned about operations. Adding,
 subtracting, multiplying, and dividing come first, with exponentials and
-roots soon following. Once we have a good grasp on these, we're introduced to
-a new type of puzzle: variables. They start out simple, with things looking
+roots soon following. Once I had a good grasp on those, I was introduced to
+a new type of puzzle: variables. They started out simple, with things looking
 like this:
 
 $$ \textrm{Solve for $x$.} $$ 
 $$ 10 + x = 15$$
 
-Where we find out that $x = 5$ by subtracting the $10$ over to the other side.
-Then we move on to more complex equations:
+Where I found out that $x = 5$ by subtracting the $10$ over to the other side.
+Then I moved on to more complex equations:
 $$ \textrm{Solve for $x$.}$$ 
 $$ x^2 - 1 = 0$$
 
-Where we find that $x$ *could be* equal to either $1$ or $-1$ using any number
+Where I found that $x$ could be equal to either $1$ or $-1$ using any number
 of techniques -- factoring, the quadratic formula, graphing, etc.
 
 And just like that, we've covered something important. Yes, we can move
